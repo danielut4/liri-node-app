@@ -1,0 +1,838 @@
+Invalid Instruction
+
+---------------------------------------------------
+
+Song: Africa
+Album: Toto IV
+
+---------------------------------------------------
+
+Artist: Toto
+Preview: https://p.scdn.co/mp3-preview/f01830f7be6c8b654d44c8f7a1f1d06756ab920f?cid=10a7c31b08d74c9dba97f1af69cd952e
+
+---------------------------------------------------
+
+Name: Times Union Center
+Date: 03/18/2019
+Country: NY
+Country: United States
+City: Albany
+
+---------------------------------------------------
+
+Date: 03/20/2019
+Name: TD Garden
+City: Boston
+
+---------------------------------------------------
+
+Country: MA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/22/2019
+Country: United States
+Name: KeyBank Center
+City: Buffalo
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/25/2019
+Name: Capitol One Arena
+City: Washington
+Country: DC
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Date: 03/26/2019
+Name: Wells Fargo Center
+Country: PA
+City: Philadelphia
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Quicken Loans Arena
+Date: 03/28/2019
+City: Cleveland
+Country: United States
+Country: OH
+
+---------------------------------------------------
+
+City: Uncasville
+Country: CT
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/01/2019
+Name: Bell Centre
+City: Montréal
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/30/2019
+Date: 04/03/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+Name: Little Caesars Arena
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Date: 04/14/2019
+Name: Coachella Valley Music and Arts Festival
+City: Indio
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/21/2019
+
+---------------------------------------------------
+
+City: Indio
+Country: CA
+Country: United States
+Name: Mohegan Sun Arena
+
+---------------------------------------------------
+
+Date: 04/25/2019
+Name: Rogers Place
+City: Edmonton
+Name: Coachella Valley Music and Arts Festival
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+Date: 04/27/2019
+
+---------------------------------------------------
+
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/30/2019
+Name: Moda Center
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/02/2019
+Name: SAP Center
+City: San Jose
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/03/2019
+Name: Golden 1 Center
+City: Sacramento
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/06/2019
+Name: STAPLES Center
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+City: Vancouver
+Date: 05/07/2019
+Name: Staples Center
+
+---------------------------------------------------
+
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/10/2019
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/11/2019
+Name: T-Mobile Arena
+Name: Rogers Arena
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/14/2019
+Name: Talking Stick Resort Arena
+City: Las Vegas
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/17/2019
+City: Los Angeles
+City: San Antonio
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/19/2019
+
+---------------------------------------------------
+
+City: Houston
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Name: AT&T Center
+Name: Toyota Center
+City: Phoenix
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+City: Oklahoma City
+Country: United States
+
+---------------------------------------------------
+
+Country: OK
+Date: 05/25/2019
+Name: Smoothie King Center
+City: New Orleans
+Name: Chesapeake Energy Arena
+Date: 05/23/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Name: Amalie Arena
+City: Tampa
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/29/2019
+Name: Amway Center
+City: Orlando
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/31/2019
+Name: American Airlines Arena
+City: Miami
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/01/2019
+Name: American Airlines Arena
+Country: LA
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/04/2019
+Name: United Center
+City: Miami
+
+---------------------------------------------------
+
+Country: IL
+City: Chicago
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Country: United States
+City: Chicago
+Name: United Center
+Date: 06/05/2019
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+Name: Bridgestone Arena
+Date: 06/07/2019
+Country: TN
+City: Nashville
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: State Farm Arena
+Date: 06/08/2019
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Name: Spectrum Center
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/10/2019
+Name: PPG Paints Arena
+City: Pittsburgh
+Country: PA
+Country: United States
+Date: 06/12/2019
+
+---------------------------------------------------
+
+Date: 06/14/2019
+Name: Barclays Center
+
+---------------------------------------------------
+
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+City: Brooklyn
+
+---------------------------------------------------
+
+Date: 06/15/2019
+Name: Barclays Center
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/18/2019
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Madison Square Garden
+City: New York
+Date: 06/19/2019
+Country: United States
+Country: NY
+
+---------------------------------------------------
+
+Date: 06/21/2019
+
+---------------------------------------------------
+
+Name: Capital One Arena
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/22/2019
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/24/2019
+Name: Wells Fargo Center
+City: Philadelphia
+Name: TD Garden
+Country: United States
+
+---------------------------------------------------
+
+Country: PA
+
+---------------------------------------------------
+
+Date: 06/26/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/29/2019
+Name: Bankers Life Fieldhouse
+City: Indianapolis
+Country: IN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/01/2019
+Name: The Schottenstein Center
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/05/2019
+Name: Fiserv Forum
+City: Milwaukee
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: Enterprise Center
+City: St. Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/08/2019
+Name: Xcel Energy Center
+City: St Paul
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+Date: 07/11/2019
+
+---------------------------------------------------
+
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Vivint Smart Home Arena
+City: Salt Lake City
+Country: UT
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 08/17/2019
+Name: The O2 Arena
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The O2
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 08/19/2019
+
+---------------------------------------------------
+
+Date: 08/20/2019
+Name: The O2 Arena
+City: London
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/23/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/24/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/27/2019
+Name: AccorHotels Arena
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+Date: 08/28/2019
+Name: AccorHotels Arena
+
+---------------------------------------------------
+
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/30/2019
+City: Antwerpen
+Name: Sportpaleis Antwerpen
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/01/2019
+Name: Lanxess Arena
+City: Köln
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Stadthalle
+Date: 09/03/2019
+City: Vienna
+Country: Austria
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/05/2019
+Name: Barclaycard Arena
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/08/2019
+Name: O2 arena
+City: Praha 9
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/09/2019
+Name: Tauron Arena
+City: Kraków
+Country: Poland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/11/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+Date: 09/14/2019
+
+---------------------------------------------------
+
+Name: Arena Birmingham
+City: Birmingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/15/2019
+Name: Arena Birmingham
+City: Birmingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/17/2019
+Name: The SSE Hydro
+City: Glasgow
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/19/2019
+Name: FlyDSA Arena
+City: Sheffield
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/22/2019
+Name: 3Arena
+City: Dublin
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/23/2019
+Name: 3Arena
+City: Dublin
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/01/2019
+Name: Royal Arena
+City: Copenhagen
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/03/2019
+Name: Telenor Arena
+City: Oslo
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/05/2019
+Name: Hartwall Arena
+City: Hki
+Country: Finland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/07/2019
+Name: Ericsson Globe
+City: Stockholm
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/10/2019
+Name: Mercedes-Benz-Arena
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/13/2019
+Name: Hallenstadion
+City: Zürich
+Country: Switzerland
+
+---------------------------------------------------
+
